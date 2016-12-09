@@ -5,7 +5,7 @@
 
 Demo workflow frontend automation with GulpJS
 
-- [Article] (http://slides.com/sastrapancanababan/deck-3)  
+- [Article] (https://medium.com/@sastranababan/step-by-step-otomatisasi-frontend-dengan-gulpjs-77088026a0fd#.svp4atxbv)  
 - [Slides] (http://slides.com/sastrapancanababan/deck-3)
 
 Follow Us :
